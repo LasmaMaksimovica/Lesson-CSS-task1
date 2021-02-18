@@ -1,0 +1,21 @@
+*{
+    color: rgb(41, 175, 63);
+}
+[class="red-p"]{
+    color: rgb(228, 32, 32);
+}
+[class="blue-p"]{
+    color: rgb(82, 17, 233);
+}
+[class="blue-p"] span{
+    color: rgb(253, 229, 15);
+}
+strong span{
+    color: rgb(223, 39, 177);
+}
+[data-foo="bar"]{
+    color: rgb(223, 39, 177);
+}
+[class="super-strange-paragraph"]:hover {
+    color: rgb(228, 32, 32);
+  }
