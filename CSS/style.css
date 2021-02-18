@@ -16,6 +16,6 @@ strong span{
 [data-foo="bar"]{
     color: rgb(223, 39, 177);
 }
-[class="super-strange-paragraph"]:hover {
+.super-strange-paragraph:hover {
     color: rgb(228, 32, 32);
   }
